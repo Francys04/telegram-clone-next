@@ -45,3 +45,5 @@
 - LiveKit for enabling video conferencing functionalities (commented out).
 
 ![Chat window](chat.JPG)
+![database window](db_mango.JPG)
+![log-in window](log-in.JPG)
